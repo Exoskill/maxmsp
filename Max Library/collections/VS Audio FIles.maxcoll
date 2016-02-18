@@ -1,0 +1,5 @@
+{
+	"name" : "VS Audio FIles",
+	"type" : "filelist",
+	"contents" : [ "Kick_Strange.aif", "rsaw_24_4096.aif", "saw_24_4096.aif", "sq_24_4096.aif", "tri_24_4096.aif", "Vibr_C3.aif", "vs_abreak.aif", "vs_abreak2.aif", "vs_analog_loop.aif", "vs_aqua_sap.aif", "vs_bgest.aif", "vs_carbon_loop.aif", "vs_drums_loop.aif", "vs_flute_q2.aif", "vs_greg_1666.aif", "vs_guitar_frag_q4.aif", "vs_guitar_melody_q4.aif", "vs_guitar_phrase_q4.aif", "vs_guitar_rythm_q4.aif", "vs_mikr.aif", "vs_sicut_dixit.aif", "vs.4pancurve_512.aif", "vs.pancurve_512.aif", "wf1.aif", "wf2.aif", "wf3.aif", "wf4.aif" ]
+}

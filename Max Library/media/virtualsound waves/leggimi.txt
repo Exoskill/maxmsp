@@ -1,0 +1,1 @@
+In questa cartella si trovano delle forme d'onda precompilate che possono essere utilizzate direttamente dall'oggetto buffer~.
